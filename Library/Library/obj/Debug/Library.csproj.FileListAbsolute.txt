@@ -1,0 +1,14 @@
+C:\Users\Lenovo\Desktop\Library\Library\bin\Debug\Library.exe
+C:\Users\Lenovo\Desktop\Library\Library\bin\Debug\Library.pdb
+C:\Users\Lenovo\Desktop\Library\Library\obj\Debug\Library.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\Library\Library\obj\Debug\Library.Form1.resources
+C:\Users\Lenovo\Desktop\Library\Library\obj\Debug\Library.Form2.resources
+C:\Users\Lenovo\Desktop\Library\Library\obj\Debug\Library.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\Library\Library\obj\Debug\Library.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\Library\Library\obj\Debug\Library.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Library\Library\obj\Debug\Library.exe
+C:\Users\Lenovo\Desktop\Library\Library\obj\Debug\Library.pdb
+C:\Users\Lenovo\Desktop\Library\Library\bin\Debug\Database1.mdf
+C:\Users\Lenovo\Desktop\Library\Library\bin\Debug\Database1_log.ldf
+C:\Users\Lenovo\Desktop\Library\Library\obj\Debug\Library.Form3.resources
+C:\Users\Lenovo\Desktop\Library\Library\obj\Debug\Library.Form4.resources
